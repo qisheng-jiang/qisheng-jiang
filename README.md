@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/qisheng-jiang)
 
-- 🍻 M.Eng in Computer Science and Technology at 🇨🇳 [ShanghaiTech University](https://www.shanghaitech.edu.cn/).
-- 🔭 B.Eng in Software Engineering at 🇨🇳 [Tongji University](https://www.tongji.edu.cn/).
-- 🌱 Research Interests: Computer Architecture, File System, Database, AI System.
+- 🍻 _M.Eng in Computer Science and Technology_ at 🇨🇳 [ShanghaiTech University](https://www.shanghaitech.edu.cn/).
+- 🔭 _B.Eng in Software Engineering_ at 🇨🇳 [Tongji University](https://www.tongji.edu.cn/).
+- 🌱 **Research Interests**: Computer Architecture, File System, Database, AI System.
 - ⚡ C/C++, Python, Java, Go, C#, LaTeX
 - 💬 Git, PyTorch, Spring Boot, Relational and Mon-relational databases

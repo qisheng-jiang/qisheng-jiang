@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 - 🍻 _M.Eng in Computer Science and Technology_ at 🇨🇳 [ShanghaiTech University](https://www.shanghaitech.edu.cn/).
 - 🔭 _B.Eng in Software Engineering_ at 🇨🇳 [Tongji University](https://www.tongji.edu.cn/).
-- 🌱 **Research Interests**: Computer Architecture, File System, KV Storage, Database, AI System.
+- 🌱 **Research Interests**: Operating Systems, File and Storage Systems, Computer Architecture, AI Systems.
 - ⚡ C/C++, Python, Java, Go, C#, LaTeX
 - 💬 PyTorch, Spring Boot, Relational and Non-relational databases
